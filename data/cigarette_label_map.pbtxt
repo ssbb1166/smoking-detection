@@ -1,0 +1,10 @@
+item {
+    name: "hand",
+    id: 1,
+    display_name: "hand"
+}
+item {
+    name: "mouth",
+    id: 2,
+    display_name: "mouth"
+}
