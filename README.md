@@ -51,4 +51,5 @@ kaggle cigarette dataset [다운로드](https://www.kaggle.com/datasets/lurenzho
 
 <hr>
 
-- [프로젝트 소개 PDF 바로 가기](smoking_detection.pdf)
+- [프로젝트 소개 바로 가기](smoking_detection.pdf)
+- [커밋 컨벤션 바로 가기](.github/CONTRIBUTING.md)
