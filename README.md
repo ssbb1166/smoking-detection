@@ -42,9 +42,13 @@ kaggle cigarette dataset [다운로드](https://www.kaggle.com/datasets/lurenzho
 
 ## 데모 영상
 
-[데모 영상 바로가기](demo/video)
+[데모 영상 바로 가기](demo/video)
 
 ![image](demo/gif/demo1.gif)
 ![image](demo/gif/demo2.gif)
 ![image](demo/gif/demo3.gif)
 ![image](demo/gif/demo4.gif)
+
+<hr>
+
+- [프로젝트 소개 PDF 바로 가기](smoking_detection.pdf)
